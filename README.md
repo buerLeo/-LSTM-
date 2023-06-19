@@ -24,7 +24,7 @@
 
 ## 安装
 
-1. 克隆该项目到本地计算机：git clone https://github.com/your-username/stock-price-prediction.git
+1. 克隆该项目到本地计算机：git clone https://github.com/buerLeo/-LSTM-.git
 2. 安装所需的Python依赖项：pip install -r requirements.txt
 
 ## 运行
